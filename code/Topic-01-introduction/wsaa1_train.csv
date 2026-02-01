@@ -1,0 +1,29 @@
+N	51.8491	-8.29956	B906	01 Feb 2026	B906\nCobh to Cork\nExpected Departure 12:30	To Cork
+N	51.8491	-8.29956	B924	01 Feb 2026	B924\nCobh to Cork\nExpected Departure 12:30	To Cork
+N	51.9018	-8.4582	B250	01 Feb 2026	B250\nCork to Charleville\nExpected Departure 12:40	To Charleville
+N	51.9018	-8.4582	B557	01 Feb 2026	B557\nCork to Midleton\nExpected Departure 12:30	To Midleton
+N	51.9018	-8.4582	B575	01 Feb 2026	B575\nCork to Midleton\nExpected Departure 12:30	To Midleton
+N	52.6587	-8.62397	A425	01 Feb 2026	A425\nLimerick to Limerick Junction\nExpected Departure 12:45	To Limerick Junction
+N	53.3531	-6.24591	D908	01 Feb 2026	D908\nDublin Connolly to Maynooth\nExpected Departure 12:47	Northbound
+N	53.378	-6.58993	P749	01 Feb 2026	P749\nMaynooth to Dublin Connolly\nExpected Departure 12:40	Southbound
+N	53.4349	-6.46898	P373	01 Feb 2026	P373\nM3 Parkway to Clonsilla\nExpected Departure 12:40	Southbound
+N	53.712	-6.33538	B841	01 Feb 2026	B841\nDrogheda to Dublin Connolly\nExpected Departure 12:42	Southbound
+R	52.8999	-7.60259	A400	01 Feb 2026	A400\n11:35 - Dublin Heuston to Limerick (0 mins late)\nArrived Ballybrophy next stop Templemore	To Limerick
+R	53.1442	-6.06085	A602	01 Feb 2026	A602\n10:25 - Dublin Connolly to Rosslare Europort (2 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
+R	53.1454	-7.06361	P203	01 Feb 2026	P203\n12:25 - Portlaoise to Dublin Heuston (-3 mins late)\nArrived Monasterevin next stop Kildare	To Dublin Heuston
+R	53.146	-7.18055	A212	01 Feb 2026	A212\n12:00 - Dublin Heuston to Charleville (1 mins late)\nDeparted Portarlington next stop Portlaoise	To Charleville
+R	53.2364	-6.11691	E153	01 Feb 2026	E153\n12:00 - Dublin Connolly to Greystones (-3 mins late)\nDeparted Shankill next stop Woodbrook	Southbound
+R	53.2469	-6.66386	A211	01 Feb 2026	A211\n11:03 - Charleville to Dublin Heuston (-3 mins late)\nDeparted Sallins next stop Dublin Heuston	To Dublin Heuston
+R	53.2557	-6.11317	E738	01 Feb 2026	E738\n12:20 - Greystones to Dublin Connolly (0 mins late)\nArrived Killiney next stop Dalkey	Northbound
+R	53.3099	-6.19498	E737	01 Feb 2026	E737\n12:11 - Bray to Dublin Connolly (-1 mins late)\nArrived Booterstown next stop Sydney Parade	Northbound
+R	53.3281	-6.22116	E254	01 Feb 2026	E254\n12:28 - Dublin Connolly to Bray (0 mins late)\nArrived Sandymount next stop Sydney Parade	Southbound
+R	53.3363	-8.24081	A702	01 Feb 2026	A702\n12:02 - Athlone to Galway (19 mins late)\nDeparted Ballinasloe next stop Woodlawn	To Galway
+R	53.347	-6.25425	A603	01 Feb 2026	A603\n09:40 - Rosslare Europort to Dublin Connolly (0 mins late)\nArrived Tara Street next stop Dublin Connolly	Northbound
+R	53.3752	-6.31388	P748	01 Feb 2026	P748\n12:08 - Maynooth to Dublin Connolly (0 mins late)\nDeparted Pelletstown next stop Broombridge	Southbound
+R	53.3816	-6.37149	D907	01 Feb 2026	D907\n12:17 - Dublin Connolly to Maynooth (1 mins late)\nArrived Castleknock next stop Coolmine	Northbound
+R	53.6888	-7.60299	A907	01 Feb 2026	A907\n11:05 - Sligo to Dublin Connolly (1 mins late)\nDeparted Edgeworthstown next stop Mullingar	Southbound
+R	54.0007	-6.41291	A146	01 Feb 2026	A146\n11:29 - Drogheda to Belfast (3 mins late)\nDeparted Dundalk next stop Newry	Northbound
+T	53.334	-6.37868	A403	01 Feb 2026	A403\n10:25 - Limerick to Dublin Heuston(0 mins late)\nTERMINATED Park West and Cherry Orchard at 12:38	To Dublin Heuston
+T	53.3353	-6.45233	P202	01 Feb 2026	P202\n11:30 - Portlaoise to Dublin Heuston(0 mins late)\nTERMINATED Adamstown at 12:40	To Dublin Heuston
+T	53.3531	-6.24591	E736	01 Feb 2026	E736\n11:51 - Bray to Dublin Connolly(-1 mins late)\nTERMINATED Dublin Connolly at 12:38	Northbound
+T	53.3531	-6.24591	P747	01 Feb 2026	P747\n11:44 - Maynooth to Dublin Connolly(1 mins late)\nTERMINATED Dublin Connolly at 12:29	Southbound
